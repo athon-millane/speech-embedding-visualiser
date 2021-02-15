@@ -1,0 +1,6 @@
+watchdog
+streamlit
+pandas
+matplotlib
+librosa
+torch
